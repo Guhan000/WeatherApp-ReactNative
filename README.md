@@ -5,7 +5,7 @@ This is a simple weather app using react-native.
 
 
 
-To initialiae project:
+To initialize project:
 npm install
 
 
